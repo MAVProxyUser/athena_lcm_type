@@ -1,0 +1,12 @@
+*.jar
+file_list.txt
+lcm_translate_msgs/lcm_type/lcm_types
+lcm_translate_msgs/lcm_type/java
+CMakeCache.txt
+Makefile
+cmake_install.cmake
+*.hpp
+*.py
+*.pyc
+*.java
+*.class
